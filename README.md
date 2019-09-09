@@ -8,9 +8,11 @@
 5. A user can get only one of the percentage based discounts on a bill.
 
 ## Special discounts 
-On holidays (Ramadan, Adha, Fitr, New year) we add new discounts based on marchandise types: 
-1. grocery 15%
-2. electronics below 100$ 3% , electronics that costs >100$ get a 7.5% discount
+On the first 3 days of every month we add new discounts based on marchandise types: 
+1. If the item is a grocery, it get a 15% discount
+2. If the item is an electronic below 100$ 3% , if it costs >100$ , it gets a 7.5% discount
+
+If the month number is a pair (like February) we double the special discounts 
 
 Items on special discounts do not get included in base discounts
 
