@@ -8,4 +8,11 @@ On a retail website, the following discounts apply:
 5. A user can get only one of the percentage based discounts on a bill.
 
 
-Create a function that calculates the amount to be payed on a bill for every customer.
+
+Create an interface to collect the items bought by the customer and the customer information.
+Take the following into consideration:
+1. The customer can buy maximum 10 items 
+2. Every item has : name, quantity, price
+3. Every customer has : name, type {employee, affiliate, normal customer), date of joining the shop
+
+Calculate and display the final amount to be payed by the customer.
