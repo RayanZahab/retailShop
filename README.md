@@ -8,4 +8,4 @@ On a retail website, the following discounts apply:
 5. A user can get only one of the percentage based discounts on a bill.
 
 
-Create a function that calculates the amound to be payed on a bill for every customer.
+Create a function that calculates the amount to be payed on a bill for every customer.
